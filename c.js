@@ -12,3 +12,4 @@ cc
 last
 last2
 test_ee
+test_eebranch
